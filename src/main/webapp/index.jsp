@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Docker Demonstration</h2>
+<h2>Simple Demo</h2>
 </body>
 </html>
