@@ -11,5 +11,10 @@ pipeline {
         sh 'ls -lrth'
       }
     }
+    stage('build') {
+      steps {
+        sh 'mvn clean install'
+      }
+    }
   }
 }
